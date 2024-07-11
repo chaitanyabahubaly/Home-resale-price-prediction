@@ -1,0 +1,501 @@
+area,bedrooms,bathrooms,location,year_built,sale_price
+2029,5,2,Chandigarh,2001,100
+2789,2,1,Andaman and Nicobar Islands,2001,101
+2545,2,2,Nagaland,1998,102
+1205,4,1,Punjab,2018,103
+3074,5,1,Uttarakhand,1983,104
+1015,3,3,Punjab,2022,105
+3130,2,2,Madhya Pradesh,1999,106
+2835,1,2,Odisha,2000,107
+1076,5,1,Haryana,1981,108
+3170,3,3,Tamil Nadu,1974,109
+2134,6,1,Manipur,2014,110
+1479,3,4,Uttarakhand,1987,111
+2159,1,2,Manipur,2006,112
+1145,1,1,Kerala,2023,113
+2116,6,3,Haryana,1999,114
+3451,1,2,Andaman and Nicobar Islands,1971,115
+2632,6,1,Goa,1991,116
+1808,3,3,Jharkhand,2013,117
+2002,2,2,Uttar Pradesh,1958,118
+3261,4,2,Andaman and Nicobar Islands,1968,119
+810,4,4,Delhi,1994,120
+3316,4,1,Mizoram,2022,121
+2447,6,1,Bihar,1980,122
+1470,1,1,Rajasthan,2011,123
+1412,6,4,Chandigarh,2003,124
+2480,5,2,Bihar,1982,125
+1032,4,1,Lakshadweep,2000,126
+2872,3,2,Arunachal Pradesh,1951,127
+2061,2,4,Delhi,2021,128
+3245,4,4,Maharashtra,1976,129
+3231,4,3,Goa,1972,130
+1667,3,2,Bihar,1984,131
+3035,1,1,Puducherry,1957,132
+1555,2,2,Arunachal Pradesh,2023,133
+950,3,4,Himachal Pradesh,2006,134
+2119,4,4,Chhattisgarh,1985,135
+2866,3,3,Maharashtra,1979,136
+2111,5,1,Odisha,2023,137
+1063,2,1,Punjab,1969,138
+2308,6,3,Arunachal Pradesh,1968,139
+2808,6,2,Odisha,1999,140
+3004,2,1,Kerala,1973,141
+3488,3,1,Jharkhand,2011,142
+2536,4,4,Ladakh,1994,143
+3212,3,3,Uttar Pradesh,1981,144
+2196,5,3,Lakshadweep,1972,145
+2420,1,1,Karnataka,1954,146
+1653,2,1,Karnataka,2001,147
+2394,3,2,Tripura,1962,148
+2936,5,4,Kerala,1971,149
+2738,4,4,West Bengal,1957,150
+2349,5,1,Goa,1963,151
+1985,3,1,Bihar,1960,152
+3404,4,4,Nagaland,1991,153
+912,4,1,Tamil Nadu,1963,154
+1550,4,4,Chhattisgarh,1984,155
+1943,3,1,Arunachal Pradesh,1965,156
+1287,3,4,Odisha,1971,157
+2772,3,1,Delhi,2016,158
+2918,2,4,Assam,2008,159
+1119,3,1,Meghalaya,1996,160
+2292,2,2,Lakshadweep,2001,161
+2295,4,1,Andaman and Nicobar Islands,2021,162
+1053,3,3,Karnataka,1983,163
+3212,1,1,Andhra Pradesh,1990,164
+1980,4,4,Daman and Diu,2005,165
+2195,3,4,Telangana,1971,166
+1701,3,2,Jammu and Kashmir,1975,167
+1224,3,4,Delhi,2004,168
+3120,4,3,Lakshadweep,1991,169
+3270,3,4,Andhra Pradesh,2006,170
+2046,5,4,Telangana,2001,171
+2687,1,4,Nagaland,1971,172
+2316,3,3,Puducherry,1955,173
+1737,3,1,Bihar,1961,174
+2308,5,2,Madhya Pradesh,1996,175
+1795,5,4,Delhi,1983,176
+1623,3,3,Chandigarh,1962,177
+3357,5,3,Jammu and Kashmir,1961,178
+1997,5,2,Tripura,1975,179
+2375,5,3,Goa,1957,180
+2959,5,2,Daman and Diu,1968,181
+979,3,3,Chandigarh,1952,182
+1119,3,1,Himachal Pradesh,1950,183
+3096,2,3,Jammu and Kashmir,1953,184
+2983,4,3,Goa,2004,185
+1952,5,3,Odisha,1953,186
+1379,2,2,Tamil Nadu,2017,187
+3163,6,2,West Bengal,2018,188
+910,3,1,Haryana,1959,189
+1651,1,4,Lakshadweep,1989,190
+3388,5,2,Assam,1987,191
+2487,4,4,Nagaland,1967,192
+847,5,4,Chhattisgarh,1957,193
+3305,5,1,Telangana,2000,194
+2450,1,4,Maharashtra,1980,195
+1913,2,1,Andhra Pradesh,2002,196
+2237,4,3,Odisha,1973,197
+2779,1,2,Puducherry,1964,198
+3461,1,3,Andhra Pradesh,2008,199
+2828,2,4,Kerala,1955,200
+1009,3,4,Uttar Pradesh,1955,201
+3323,6,3,Andhra Pradesh,2016,202
+3304,4,4,Arunachal Pradesh,1979,203
+909,4,2,Manipur,1993,204
+3206,4,4,Bihar,1992,205
+3251,5,1,Madhya Pradesh,1969,206
+2314,6,2,Puducherry,1963,207
+2618,1,2,Gujarat,2014,208
+3102,5,4,Chhattisgarh,1983,209
+1235,5,4,Dadra and Nagar Haveli,1957,210
+815,5,4,Punjab,1994,211
+2151,4,1,Telangana,2004,212
+3428,1,4,Goa,2017,213
+1667,4,4,Andaman and Nicobar Islands,1950,214
+1875,3,2,Punjab,1984,215
+1961,4,4,Rajasthan,2023,216
+1025,6,4,Chhattisgarh,2006,217
+3067,3,3,Jammu and Kashmir,1992,218
+1951,5,2,Tamil Nadu,2014,219
+1726,5,2,Goa,1963,220
+3029,5,1,Telangana,1991,221
+3149,3,3,Bihar,1968,222
+1898,6,4,Rajasthan,1987,223
+2913,2,2,Jammu and Kashmir,1952,224
+2982,5,3,Meghalaya,1959,225
+1355,6,1,Karnataka,1977,226
+2662,2,3,Punjab,1976,227
+2244,3,1,Karnataka,1980,228
+1188,3,1,Puducherry,2001,229
+1292,6,4,Uttarakhand,2004,230
+1763,3,2,Ladakh,1962,231
+2451,2,2,Karnataka,1974,232
+821,1,1,Mizoram,1978,233
+1666,2,4,Chhattisgarh,1976,234
+2566,5,2,Arunachal Pradesh,1996,235
+916,5,2,Andaman and Nicobar Islands,2009,236
+1757,6,3,Sikkim,1978,237
+1153,4,2,Jammu and Kashmir,1978,238
+2917,4,2,Bihar,1953,239
+1770,2,2,Andaman and Nicobar Islands,1980,240
+2583,6,3,Manipur,1985,241
+2747,5,4,Dadra and Nagar Haveli,1998,242
+3393,3,2,Manipur,1988,243
+1652,4,1,Andhra Pradesh,2017,244
+1033,3,2,Assam,1972,245
+1682,4,4,Goa,2004,246
+2709,3,1,Madhya Pradesh,2015,247
+3252,2,2,Arunachal Pradesh,1970,248
+1251,6,4,Ladakh,1979,249
+1462,3,3,Andaman and Nicobar Islands,1965,250
+2596,1,3,Delhi,1953,251
+3121,2,2,Mizoram,1958,252
+1727,3,1,Odisha,1958,253
+1900,2,4,Jammu and Kashmir,1997,254
+1456,2,4,Nagaland,1994,255
+3475,1,1,Himachal Pradesh,1994,256
+1759,2,1,Lakshadweep,1955,257
+2385,5,4,Arunachal Pradesh,1971,258
+1168,3,4,Telangana,2004,259
+2035,4,4,Lakshadweep,2018,260
+2684,1,3,Himachal Pradesh,1990,261
+1753,3,1,Rajasthan,2002,262
+2197,4,2,Gujarat,1996,263
+2830,3,2,Manipur,1952,264
+2047,5,1,Bihar,1998,265
+1690,5,2,Jharkhand,1971,266
+1763,5,3,Tripura,1987,267
+1046,4,2,Punjab,1987,268
+3499,1,2,Tripura,2008,269
+1239,5,2,Karnataka,1970,270
+3087,2,1,Arunachal Pradesh,1973,271
+2985,5,2,Andaman and Nicobar Islands,1950,272
+1500,5,1,Tripura,1987,273
+3016,5,2,Sikkim,2003,274
+1844,2,3,Lakshadweep,2012,275
+2366,1,3,Meghalaya,2007,276
+2565,2,4,Bihar,1962,277
+1053,6,1,Bihar,1976,278
+2357,1,1,Manipur,1988,279
+3327,5,3,Karnataka,1962,280
+2975,4,4,Andhra Pradesh,1958,281
+1801,5,2,Madhya Pradesh,1953,282
+1875,2,4,Odisha,2022,283
+3004,5,2,Andaman and Nicobar Islands,1988,284
+966,6,4,Odisha,1967,285
+2731,6,3,Ladakh,2020,286
+3247,6,4,Uttarakhand,1968,287
+2540,4,4,Sikkim,1962,288
+3028,3,2,Sikkim,1982,289
+1303,3,4,Haryana,2022,290
+1189,2,1,Madhya Pradesh,1956,291
+819,4,1,Daman and Diu,1955,292
+859,6,4,Andhra Pradesh,1987,293
+2121,3,3,Punjab,2006,294
+2771,5,4,Karnataka,1985,295
+2275,2,1,West Bengal,1999,296
+3462,5,3,Arunachal Pradesh,1992,297
+2779,5,2,Nagaland,1987,298
+2630,6,2,Andaman and Nicobar Islands,1953,299
+3317,6,3,Tripura,2007,300
+1486,6,2,Punjab,1999,301
+3294,3,4,Ladakh,2003,302
+2193,2,1,West Bengal,1960,303
+2602,1,4,Sikkim,2008,304
+916,2,2,Jharkhand,1997,305
+2153,2,2,Andhra Pradesh,1999,306
+1135,5,2,Dadra and Nagar Haveli,1951,307
+1716,6,1,Chhattisgarh,2022,308
+2448,5,2,Haryana,1995,309
+968,3,3,Maharashtra,1954,310
+2960,2,4,Odisha,2003,311
+2046,6,1,Madhya Pradesh,1957,312
+1673,2,3,Manipur,1962,313
+1969,3,4,Nagaland,1990,314
+1293,3,2,West Bengal,1957,315
+1636,5,2,Chhattisgarh,1989,316
+1252,6,4,Lakshadweep,2001,317
+2167,6,2,Chandigarh,1988,318
+2178,5,1,Nagaland,2023,319
+1551,4,4,Mizoram,2011,320
+3063,2,3,Ladakh,2000,321
+1377,6,3,Karnataka,1972,322
+3428,2,4,Daman and Diu,2014,323
+3157,4,3,Assam,2016,324
+2019,2,2,Tripura,1966,325
+2987,5,4,Andhra Pradesh,2021,326
+1292,5,3,Jharkhand,1966,327
+941,1,4,Rajasthan,1954,328
+2727,5,3,Assam,1988,329
+2372,5,2,West Bengal,1995,330
+2509,3,3,Chandigarh,1953,331
+1463,2,2,Madhya Pradesh,1984,332
+3260,2,1,Tamil Nadu,1956,333
+3395,6,2,Goa,1982,334
+894,4,4,Puducherry,2002,335
+1694,2,2,Rajasthan,1999,336
+932,1,1,Dadra and Nagar Haveli,1951,337
+3164,3,2,Uttarakhand,1981,338
+2657,4,1,Uttarakhand,1951,339
+2232,5,3,Gujarat,2016,340
+2342,1,3,Himachal Pradesh,1973,341
+2720,1,4,Puducherry,1960,342
+2802,2,3,Puducherry,2004,343
+1787,2,4,Nagaland,1974,344
+2921,1,3,Jharkhand,1999,345
+1938,3,3,Tamil Nadu,1978,346
+2477,6,4,Mizoram,2011,347
+1733,4,2,Telangana,2015,348
+1231,2,1,Bihar,1955,349
+1045,2,3,Kerala,1996,350
+2091,4,2,Meghalaya,2000,351
+2731,5,3,Nagaland,2018,352
+1182,3,1,Telangana,1964,353
+3063,6,2,Maharashtra,1966,354
+1621,3,3,Uttar Pradesh,2004,355
+2590,6,3,Manipur,1967,356
+1078,4,4,Nagaland,1980,357
+3471,2,1,Tamil Nadu,1978,358
+2895,3,4,Delhi,2015,359
+2044,6,3,Sikkim,2022,360
+1013,1,3,Goa,1966,361
+928,5,3,Madhya Pradesh,1963,362
+3334,6,3,Lakshadweep,1989,363
+3147,2,1,Bihar,2003,364
+2400,4,2,Arunachal Pradesh,1995,365
+2139,2,1,Andaman and Nicobar Islands,1992,366
+1586,1,4,Kerala,2018,367
+2142,4,2,Gujarat,1984,368
+2660,3,2,Odisha,1980,369
+2773,4,4,Mizoram,1980,370
+805,3,4,Himachal Pradesh,1981,371
+3407,2,4,Assam,1990,372
+1509,4,2,Goa,1974,373
+1420,1,3,Gujarat,2018,374
+3249,2,1,Maharashtra,2010,375
+1742,5,4,Jharkhand,2011,376
+3254,6,1,Gujarat,1966,377
+3457,5,2,Odisha,1978,378
+858,4,3,Rajasthan,2023,379
+1273,3,2,Nagaland,2021,380
+878,6,2,Tamil Nadu,2008,381
+1252,3,3,Tripura,1992,382
+2657,5,1,Assam,1981,383
+1178,4,2,Dadra and Nagar Haveli,1953,384
+3172,5,3,Himachal Pradesh,2005,385
+2131,3,1,Kerala,2021,386
+2621,6,3,Tamil Nadu,2001,387
+2662,3,2,Bihar,1951,388
+2269,6,2,Puducherry,1980,389
+1614,4,2,Goa,2002,390
+2322,3,1,Bihar,1962,391
+1642,2,1,Uttarakhand,1982,392
+1978,1,4,Punjab,1990,393
+2050,3,1,Arunachal Pradesh,1974,394
+1941,4,3,Arunachal Pradesh,2003,395
+3499,3,2,Madhya Pradesh,1983,396
+1107,5,1,Goa,2001,397
+2828,2,1,Gujarat,1966,398
+2665,2,4,Uttarakhand,1963,399
+1320,6,3,Telangana,1971,400
+3180,2,1,Maharashtra,1976,401
+1968,1,3,Karnataka,1951,402
+1784,5,2,Dadra and Nagar Haveli,1967,403
+2319,4,4,Dadra and Nagar Haveli,2003,404
+3157,6,3,Jammu and Kashmir,1961,405
+2759,4,3,Assam,1958,406
+2316,4,2,Telangana,2021,407
+3310,3,1,Arunachal Pradesh,1996,408
+2985,3,1,Maharashtra,1967,409
+1819,5,1,Andaman and Nicobar Islands,1983,410
+2724,1,1,Tripura,1959,411
+3498,6,1,Goa,1986,412
+3193,4,3,Punjab,2009,413
+3035,6,2,Uttar Pradesh,2008,414
+1569,5,2,Kerala,1952,415
+2388,2,3,Rajasthan,1971,416
+1526,1,4,Daman and Diu,1973,417
+1078,5,3,Delhi,1979,418
+2218,5,4,Assam,2016,419
+1006,4,1,Madhya Pradesh,1975,420
+1767,3,2,Puducherry,1967,421
+2188,3,4,Andhra Pradesh,2008,422
+1729,3,1,Jammu and Kashmir,1995,423
+1216,5,2,West Bengal,2002,424
+2063,3,2,Sikkim,1998,425
+3079,3,4,Tamil Nadu,1975,426
+2577,3,3,Andhra Pradesh,1980,427
+2734,6,3,Jharkhand,2023,428
+3152,4,3,Punjab,2002,429
+1579,6,3,Bihar,1999,430
+1948,4,4,Odisha,1952,431
+3288,1,4,Andaman and Nicobar Islands,2020,432
+3025,5,3,Madhya Pradesh,2023,433
+1256,6,3,Goa,1972,434
+2538,2,4,Jammu and Kashmir,2017,435
+1369,6,3,Punjab,1973,436
+1380,5,3,Rajasthan,1959,437
+2509,6,3,Kerala,1961,438
+1297,1,4,Kerala,1975,439
+1601,6,3,Tamil Nadu,1953,440
+1691,2,2,Tripura,1986,441
+1451,4,3,Andaman and Nicobar Islands,1966,442
+932,5,1,Karnataka,1969,443
+1356,6,3,Goa,1957,444
+2443,5,4,Kerala,1952,445
+2063,4,4,Tripura,2008,446
+3234,4,1,Punjab,2020,447
+3243,6,3,Andaman and Nicobar Islands,2007,448
+1286,1,2,Goa,2006,449
+1744,2,4,Mizoram,1960,450
+2679,1,4,Dadra and Nagar Haveli,1972,451
+2400,4,4,Haryana,1959,452
+2829,2,2,Telangana,1975,453
+1293,1,4,Delhi,1988,454
+1213,5,3,Telangana,1999,455
+3482,2,1,Maharashtra,2011,456
+3387,5,3,Lakshadweep,2004,457
+1006,4,2,Chhattisgarh,1997,458
+2538,3,2,Jharkhand,1975,459
+2410,6,4,Uttarakhand,2000,460
+2476,4,2,Chandigarh,1967,461
+1059,3,4,Uttarakhand,1998,462
+2256,5,1,Delhi,1954,463
+1870,5,3,Rajasthan,1978,464
+2065,5,4,Manipur,1975,465
+2117,2,3,Meghalaya,2011,466
+2465,3,4,Odisha,1981,467
+1357,1,4,Dadra and Nagar Haveli,1984,468
+2240,6,4,Chhattisgarh,2007,469
+874,2,1,Arunachal Pradesh,2017,470
+2475,3,4,Tripura,1957,471
+3164,4,4,Madhya Pradesh,1972,472
+2896,1,1,Chandigarh,1985,473
+1180,6,1,Lakshadweep,1969,474
+2443,4,2,Punjab,2000,475
+2690,2,3,Delhi,1988,476
+2546,6,1,Bihar,1980,477
+1733,5,4,Gujarat,2023,478
+2070,5,2,Puducherry,1982,479
+1662,4,3,Jharkhand,2006,480
+3473,4,4,Andaman and Nicobar Islands,1993,481
+2572,5,2,Assam,1950,482
+2627,6,4,Mizoram,2006,483
+1818,5,4,Himachal Pradesh,2002,484
+1708,5,1,Gujarat,1984,485
+2388,2,1,Telangana,1996,486
+2025,6,3,Arunachal Pradesh,1953,487
+1602,3,2,Maharashtra,2000,488
+1206,6,2,Manipur,2014,489
+3154,6,4,Uttarakhand,1989,490
+3376,4,1,Himachal Pradesh,1968,491
+1934,3,2,Bihar,1976,492
+1669,4,3,Haryana,2006,493
+3315,5,3,Dadra and Nagar Haveli,2016,494
+2509,5,2,Kerala,1982,495
+2022,1,3,Manipur,1966,496
+2931,2,1,Jammu and Kashmir,1976,497
+2674,5,4,Gujarat,2016,498
+2042,1,4,Chhattisgarh,1997,499
+1185,4,3,Ladakh,1978,500
+808,3,2,Arunachal Pradesh,2001,501
+3296,2,4,Puducherry,1966,502
+1573,6,1,Kerala,1969,503
+3446,2,1,Gujarat,2006,504
+1346,4,4,Assam,1976,505
+2579,2,1,Gujarat,1964,506
+1696,3,1,Chandigarh,2008,507
+1028,1,1,Haryana,1981,508
+2073,6,3,Goa,1962,509
+2537,6,4,Sikkim,1973,510
+1757,2,2,Daman and Diu,1984,511
+3329,3,1,Meghalaya,1983,512
+1850,1,1,Karnataka,1956,513
+3287,6,3,Andhra Pradesh,1986,514
+3134,3,3,Madhya Pradesh,1963,515
+1990,5,4,Rajasthan,2018,516
+2418,4,3,Tamil Nadu,1956,517
+2204,5,3,Daman and Diu,1990,518
+2946,6,2,Andaman and Nicobar Islands,1958,519
+913,4,4,Nagaland,1963,520
+3171,6,1,Andhra Pradesh,1996,521
+2579,2,1,Arunachal Pradesh,1980,522
+2834,3,4,Kerala,2014,523
+2990,1,2,Daman and Diu,1984,524
+3387,5,3,Lakshadweep,1959,525
+991,3,4,Karnataka,1997,526
+900,6,4,Gujarat,2008,527
+2463,1,3,Ladakh,1980,528
+1848,5,4,Haryana,1980,529
+1737,6,1,Jammu and Kashmir,1966,530
+2332,3,4,Tripura,1950,531
+2450,3,2,Nagaland,1992,532
+2917,4,1,Nagaland,1992,533
+2971,4,1,Delhi,1956,534
+2857,5,1,Telangana,1986,535
+1065,5,4,Uttarakhand,1987,536
+2977,2,4,Sikkim,2021,537
+2861,5,4,Kerala,1971,538
+3131,3,4,Karnataka,1994,539
+855,4,1,Punjab,1999,540
+2303,2,2,Bihar,1964,541
+3266,4,1,Madhya Pradesh,2014,542
+2826,4,3,Sikkim,1950,543
+2816,5,2,Lakshadweep,1994,544
+3251,3,2,Uttarakhand,1973,545
+2074,6,2,Chandigarh,1979,546
+3002,6,3,Gujarat,1960,547
+1717,1,4,Tripura,1972,548
+2003,5,4,Ladakh,1978,549
+2403,4,2,Chandigarh,1953,550
+1024,4,1,Dadra and Nagar Haveli,2018,551
+946,3,4,Punjab,2012,552
+3211,5,4,Rajasthan,1961,553
+2006,6,2,Jammu and Kashmir,1995,554
+2324,2,4,Rajasthan,2006,555
+3236,4,1,Tamil Nadu,1964,556
+2165,4,3,Puducherry,1984,557
+2951,3,1,Haryana,1998,558
+992,2,1,Haryana,1993,559
+1329,6,1,Rajasthan,2004,560
+829,2,3,Chandigarh,1965,561
+1111,5,2,Tripura,1993,562
+3008,3,1,Andaman and Nicobar Islands,1994,563
+2416,1,4,Karnataka,1993,564
+3443,2,1,Nagaland,1980,565
+1538,6,4,Jharkhand,1986,566
+3429,2,3,Sikkim,1966,567
+3259,4,2,Telangana,1951,568
+3483,1,3,Tamil Nadu,1977,569
+2708,5,1,Gujarat,2009,570
+1515,3,1,Nagaland,2020,571
+1942,5,2,Kerala,2006,572
+2969,2,2,Telangana,1953,573
+935,3,2,Bihar,1958,574
+2507,1,3,Daman and Diu,1975,575
+3360,6,1,Punjab,1955,576
+2146,2,3,Puducherry,2008,577
+956,2,2,Uttar Pradesh,1986,578
+1827,5,1,Haryana,1957,579
+1279,5,4,Tripura,2012,580
+2623,3,3,Puducherry,1976,581
+2787,3,1,Maharashtra,2009,582
+3473,6,1,Dadra and Nagar Haveli,2009,583
+1559,6,3,Bihar,2022,584
+1826,1,4,Manipur,1960,585
+3132,4,1,Dadra and Nagar Haveli,1976,586
+1198,2,3,Meghalaya,1989,587
+3134,2,2,Jammu and Kashmir,1991,588
+1074,3,2,Punjab,1962,589
+2157,3,1,Chandigarh,1986,590
+2144,4,3,Gujarat,1988,591
+2718,5,3,Uttar Pradesh,1969,592
+1676,6,3,Maharashtra,1955,593
+1361,5,4,Punjab,1977,594
+1743,6,2,Odisha,1970,595
+2509,3,4,Rajasthan,1968,596
+3258,3,3,Jammu and Kashmir,1953,597
+910,4,3,West Bengal,1992,598
+2345,6,3,Goa,1969,599
